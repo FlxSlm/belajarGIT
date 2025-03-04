@@ -10,13 +10,11 @@
 7. Tugas-finalProject
 
 ##Daftar perintah git 
-- git init
 - git clone
 - git status
 - git add
 - git commit
 - git push
-- git pull
 - git branch
 - git checkout
 - git merge
